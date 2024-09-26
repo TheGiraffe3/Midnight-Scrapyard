@@ -1400,7 +1400,7 @@ mission "Midnight Titania Blight Shadow Hatchlings"
 				`	(Try to contact station management.)`
 				`	(Do nothing.)`
 					accept
-			`	Your attempt to contact station management is successful. They inform you that a hull breach has occured on another section of the station and they are working to contain it. There is nothing more for you to do.`
+			`	Your attempt to contact station management is successful. They inform you that a hull breach has occurred on another section of the station and they are working to contain it. There is nothing more for you to do.`
 				accept
 	npc kill
 		government "Invasive Predator"
